@@ -1,0 +1,75 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_sentiasampleapp_name": {
+            "value": null
+        },
+        "components_sentiasampleapp_name": {
+            "value": null
+        },
+        "virtualMachines_sampleVirMac1_name": {
+            "value": null
+        },
+        "virtualMachines_sampleVirMac2_name": {
+            "value": null
+        },
+        "loadBalancers_SentiaSample_LB_name": {
+            "value": null
+        },
+        "vaults_sentia_sample_keyvault_name": {
+            "value": null
+        },
+        "availabilitySets_sampleAvailable1_name": {
+            "value": null
+        },
+        "publicIPAddresses_sentiaTestPubIP_name": {
+            "value": null
+        },
+        "networkInterfaces_samplevirmac1630_name": {
+            "value": null
+        },
+        "networkInterfaces_samplevirmac1987_name": {
+            "value": null
+        },
+        "networkInterfaces_samplevirmac2934_name": {
+            "value": null
+        },
+        "publicIPAddresses_sampleVirMac1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_sampleVirMac2_ip_name": {
+            "value": null
+        },
+        "serverfarms_ASP_sentiasamplegroup_95cb_name": {
+            "value": null
+        },
+        "storageAccounts_sentiastoragesample_name": {
+            "value": null
+        },
+        "publicIPAddresses_sampleVirMac1ip945_name": {
+            "value": null
+        },
+        "storageAccounts_sentiasamplegroupdiag_name": {
+            "value": null
+        },
+        "components_sentiasampleapp20190814919_name": {
+            "value": null
+        },
+        "networkSecurityGroups_sampleVirMac1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_sampleVirMac2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_sampleVirMac1nsg816_name": {
+            "value": null
+        },
+        "virtualNetworks_sentiaSampleVirtualNetwork_name": {
+            "value": null
+        },
+        "disks_sampleVirMac1_OsDisk_1_92ab2ec36b344210a862359bb29d1d92_name": {
+            "value": null
+        }
+    }
+}
